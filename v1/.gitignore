@@ -1,0 +1,16 @@
+# VARIABLES DE ENTORNO
+.env
+
+# MODULOS - LIBRERIAS
+/node_modules
+/package-lock.json
+
+# CARPETA LOGS
+/uploads/logs/*
+!/uploads/logs/.gitkeep
+
+# CARPETA ARCHIVOS ADJUNTOS
+/uploads/files/*
+!/uploads/files/.gitkeep
+
+
